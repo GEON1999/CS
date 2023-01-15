@@ -1,4 +1,5 @@
-> Application Programming Interface
+>### 
+>  Application Programming Interface
 > 
 - 둘 이상의 컴퓨터 프로그램이 서로 통신하는 방법이자 컴퓨터 사이에 있는 중계 계층
     - A 가 B 에게 요청한다고 했을 때, 어떻게 통신할 것인지, 어떤 데이터를 주고 받을 것인지 Method 는 무엇인지 등의 방법이 정의된 중계층
